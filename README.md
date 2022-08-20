@@ -10,4 +10,4 @@ cs = Duolingo('https://invite.duolingo.com/BDHTZTB5CWWKTSMDWSGCGNPWFA')
 cs.register()
 ```
 
-![This is an image](https://imgur.com/Qh1Qx2e)
+![](https://i.imgur.com/Qh1Qx2e.png)
